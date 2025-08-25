@@ -1,4 +1,4 @@
-# 📊 Pipeline Python: Análise de Dados COVID-19 e Vacinados
+# 📊 Estudo em Python: Análise de Dados COVID-19 e Vacinados
 
 Este notebook demonstra a construção de uma pipeline de dados utilizando Python no Databricks, com foco na análise e visualização de dados relacionados à COVID-19 e à vacinação.
 
@@ -16,10 +16,10 @@ O notebook realiza as seguintes etapas:
 ## 📁 Estrutura do Repositório
 
 ```plaintext
-projeto-desenvolvimento-pessoal/
+projeto-upskill/
 ├── notebooks/
 │   └── projeto-upskill/
-│       └── estudo_covid_python.ipynb
+│       └── Pipeline Python.ipynb
 └── README.md
 ```
 
@@ -30,7 +30,6 @@ projeto-desenvolvimento-pessoal/
   - pandas
   - numpy
   - matplotlib
-  - seaborn
   - scikit-learn
   - jupyter
 
