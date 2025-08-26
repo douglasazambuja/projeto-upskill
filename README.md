@@ -28,10 +28,10 @@ projeto-upskill/
 - Python 3.8+
 - Bibliotecas:
   - pandas
-  - numpy
   - matplotlib
-  - scikit-learn
+  - pyspark
   - jupyter
+  - datetime
 
 Instale as dependências utilizando:
 
